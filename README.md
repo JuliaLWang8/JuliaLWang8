@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello World 👋 I'm Julia
 
 <!--
-**JuliaLWang8/JuliaLWang8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 😄 *Pronouns:* she/her
+- :school: *School:* University of Toronto
+- 🌱 *Degree:* BASc in Engineering Science - Machine Intelligence Major
+- 🔭 *I’m currently working on:* coding my personal website
+- 📫 *How to reach me:* email me at [julialong.wang@mail.utoronto.ca](julialong.wang@mail.utoronto.ca)
+- ⚡ *Fun fact:* I am a deltiologist - (noun) a person who collects postcards as a hobby
+
+
