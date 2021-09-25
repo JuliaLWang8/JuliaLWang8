@@ -1,6 +1,6 @@
 # Hello World 👋 I'm Julia
 
-[julia-wang.me](https://www.julia-wang.me)
+Check out my personal site at [julia-wang.me](https://www.julia-wang.me)!
 
 <!--
 - 🌱 I’m currently learning ...
@@ -11,9 +11,7 @@
 
 - 😄 *Pronouns:* she/her
 - :school: *School:* University of Toronto
-- 🌱 *Degree:* BASc in Engineering Science - Machine Learning Major
+- 🌱 *Degree:* BASc in Engineering Science - Machine Learning Major, Business minor
 - 🔭 *I’m currently working on:* a light fixture prototype for greenhouses with Raspberry Pi and fusion360
-- 📫 *How to reach me:* email me at [julialong.wang@mail.utoronto.ca](julialong.wang@mail.utoronto.ca)
 - ⚡ *Fun fact:* I am a deltiologist - (noun) a person who collects postcards as a hobby
-
-
+- 💬 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/julia-long-wang/) or email me at [julialong.wang@mail.utoronto.ca](julialong.wang@mail.utoronto.ca) 
