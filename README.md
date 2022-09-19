@@ -1,6 +1,6 @@
 # Hello World 👋 I'm Julia
 
-Check out my personal site at [julia-wang.me](https://www.julia-wang.me)!
+Check out my personal site at [julia-wang.dev](https://www.julia-wang.dev)!
 
 <!--
 - 🌱 I’m currently learning ...
