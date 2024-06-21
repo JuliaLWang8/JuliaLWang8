@@ -10,7 +10,7 @@
 - 😄 *Pronouns:* she/her
 - :school: *School:* University of Toronto
 - 🌱 *Degree:* BS in Engineering Science - Machine Learning Major, Business minor
-- 🔭 *I’m currently working on:* developing systems level debug tools in C++ for Quartus Prime at Intel
+- 🔭 *I’m currently working on:* developing a Vested Annuity Processing System at Manulife
 - ⚡ *Fun fact:* I am a deltiologist - (noun) a person who collects postcards as a hobby
 - 💬 *Connect with me:* [LinkedIn](https://www.linkedin.com/in/julia-long-wang/) or email me at <wang.julia08@gmail.com> 
 
